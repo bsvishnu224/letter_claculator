@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+}
+.img {
+  width: 400px;
+}
+h1 {
+  color: #ffffff;
+  font-family: roboto;
+}
+
+p {
+  font-size: 12px;
+}
+
+.count {
+  font-size: 22px;
+  color: #219a6f;
+  background-color:#e4e7eb;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+}
